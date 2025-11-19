@@ -4,7 +4,7 @@ A Python bot that automates declining sales pitches and recruitment offers on Li
 
 ## Features
 
-- **Smart Detection**: Filters messages based on keywords (e.g., "recruitment", "sales", "outsourcing", "php", "java").
+- **AI-Powered Detection**: Uses LLM to intelligently classify messages as sales pitches or recruitment offers, reducing false positives compared to keyword matching.
 - **AI-Powered Responses**: Uses Google Gemini to write tailored responses in the same language as the sender (English/Czech/etc.).
 - **Safety First**:
   - **Draft Mode**: By default, the bot only *types* the message and waits for your manual confirmation before sending.
