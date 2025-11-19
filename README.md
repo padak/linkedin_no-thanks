@@ -1,6 +1,6 @@
 # "No, Thanks" Bot for LinkedIn Spam 🤖✋🚫
 
-A Python bot that politely (but firmly) tells unsolicited recruiters and sales people: *"Thanks, but we use AI for that."*
+A Python bot that politely (but firmly) tells unsolicited recruiters and sales people: *"Thanks, but we already use AI for that."*
 
 It uses **Playwright** to browse LinkedIn like a human and **Google Gemini** (LLM) to understand context and write personalized refusals in any language. No more copy-pasting generic replies!
 
