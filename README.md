@@ -1,6 +1,8 @@
-# LinkedIn Auto-Decline Bot 🤖✋
+# "No, Thanks" Bot for LinkedIn Spam 🤖✋🚫
 
-A Python bot that automates declining sales pitches and recruitment offers on LinkedIn. It uses **Playwright** for browser automation and **Google Gemini** (LLM) to generate polite, context-aware, and multi-lingual responses.
+A Python bot that politely (but firmly) tells unsolicited recruiters and sales people: *"Thanks, but we use AI for that."*
+
+It uses **Playwright** to browse LinkedIn like a human and **Google Gemini** (LLM) to understand context and write personalized refusals in any language. No more copy-pasting generic replies!
 
 ## Features
 
